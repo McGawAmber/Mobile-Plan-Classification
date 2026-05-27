@@ -27,10 +27,10 @@ This project demonstrates skills essential for **Data Analyst** and **Data Entry
 - Built a reliable model suitable for customer plan classification  
 
 ## 📂 Repository Structure  
-01_README.md
-02_requirements.txt
-03_.gitignore
-04_mobile-plan-classification.ipynb
+- 01_README.md
+- 02_requirements.txt
+- 03_.gitignore
+- 04_mobile-plan-classification.ipynb
 
 ## 🚀 How to Run  
 1. Clone the repository  
